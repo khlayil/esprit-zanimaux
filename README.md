@@ -1,2 +1,0 @@
-# esprit-zanimaux
-school project
